@@ -1,4 +1,4 @@
-# Linear-Regression
+# Linear-Regression-Salary Prediction
 
 Step-1:-PREPROCESS THE DATA:-
 
@@ -30,4 +30,4 @@ Step-4:-VISUALIZATION:-
   
   The Final step is now we visualize our results. we will use matplotlib.pyplot library 
   to make Scatter Plots of our Training set results and test set results to see how close
-  our model predicted the Values
+  our model predicted the Values of Salary to be predicted
