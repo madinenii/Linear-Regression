@@ -1,12 +1,16 @@
 # Linear-Regression-Salary Prediction
 
-Step-1:-PREPROCESS THE DATA:-
+Step-1:-PREPROCESS THE DATASET (Dataset:-Salary_Data.csv):-
+
+(Dataset:-Salary_Data.csv)
+
+DATASET LINK:-https://drive.google.com/file/d/14XCayjqNabbVJ5bqn63SxHWzUfOiBBRN/view?usp=sharing
 
 We will follow the Following Steps:-
   
   1)Import the Libraries.
   
-  2)Import DataSet.
+  2)Import DataSet of Salary_Data.csv.
   
   3)Check for Missing DataSet.
   
